@@ -8,7 +8,6 @@
     "react-native-scripts": "0.0.40",
     "react-test-renderer": "16.0.0-alpha.12"
   },
-  /*"main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",*/
   "main": "./lib/rest-force.js",
   "scripts": {
     "start": "react-native-scripts start",
